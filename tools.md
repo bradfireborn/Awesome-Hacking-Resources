@@ -31,6 +31,11 @@ Repository | Description
 ---- | ----
 [Xerosploit](https://github.com/LionSec/xerosploit)   |     Efficient and advanced man in the middle framework
 
+### Pentesting projects 
+Repository | Description
+---- | ----
+[PTF] (https://github.com/trustedsec/ptf) | Pentesting framework made by Hacking Dave of TRUSTEDSEC
+
 ### Awesome custom projects / Scripts
 Name | Description
 ---- | ----
